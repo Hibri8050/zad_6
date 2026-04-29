@@ -36,7 +36,6 @@ body {
     display: none !important;
 }
 
-/* --- ZADANIE 5: FORMULARZ --- */
 #contactForm input, #contactForm textarea {
     display: block;
     margin: 10px 0;
